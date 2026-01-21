@@ -59,7 +59,7 @@
         android:layout_width="90dp"
         android:layout_height="160dp"
         android:onClick="onClick"
-        android:scaleType="centerCrop"
+        android:scaleType="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.847"
